@@ -1,0 +1,24 @@
+Variables
+
+-containers for storing data.
+-created the moment value assigned to it.
+eg. x="hey
+    print(x)
+
+Naming
+
+-must start with letter or underscore
+-can't start with number
+-is case-sensitive
+
+Local variable : defined and designed inside the function and used and called inside it.
+
+Global variable : defined and declared outsude the function. can be used by everone, inside and outside the function.
+
+
+Data types
+
+-classification or catagorization of data items.
+-represents the kind of value that tells what operations can be performed on a particular data.
+-are actual classes.
+Include : integer, string, boolean, etc...
