@@ -1,0 +1,8 @@
+For loop
+
+-for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+-With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
+eg. fruits = ["apple", "banana", "cherry"]
+    for x in fruits:
+    print(x)
+-The for loop does not require an indexing variable to set beforehand.
